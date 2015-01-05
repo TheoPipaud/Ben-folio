@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "Gulp.js-Kit",
+  "launch_path": "/index.html",
+  "description": "Gulp.js starter kit.",
+  "developer": {
+    "name": "Théo Pipaud",
+    "url": "theopipaud.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "fr",
+  "permissions": {
+  },
+  "locales": {
+    "fr": {
+      "name": "Gulp.js-Kit",
+      "description": "Gulp.js starter kit."
+    }
+  }
+}

@@ -1,0 +1,13 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	-webkit-font-smoothing: antialiased;
+}
+body{
+	position: relative;
+	transition: all 400ms ease-in-out;
+	right: 0;
+	&.menu-opened{
+		right: 50px;
+	}
+}
